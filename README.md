@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Mock Security Audit](https://github.com/JustinSearch/LABURL)
+  - [Mock Security Audit](https://github.com/JustinSearch/MockSecAudit)
 
 <h2>📄 Certifications:</h2>
 
