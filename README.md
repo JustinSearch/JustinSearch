@@ -38,9 +38,9 @@
 
 | Project | What it shows |
 |---------|---------------|
-| [**Cisco Switch Home Lab**]([link]) | Real 28-port Cisco switch with SSH, VLANs, and documented configs |
 | [**CCNA Labs**]([link]) | Topologies and configs for each CCNA topic |
-| [**Troubleshooting Write-ups**]([link]) | Break-and-fix case studies with symptoms, tools, and fixes |
+<!-- | [**Cisco Switch Home Lab**]([link]) | Real 28-port Cisco switch with SSH, VLANs, and documented configs | -->
+<!-- | [**Troubleshooting Write-ups**]([link]) | Break-and-fix case studies with symptoms, tools, and fixes | -->
 
 ---
 
