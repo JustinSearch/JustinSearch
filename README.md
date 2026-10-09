@@ -19,7 +19,7 @@
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?logo=google&logoColor=white)
 ![ITIL v4](https://img.shields.io/badge/ITIL-v4_Foundation-6A1B9A)
 
-> CCNA: exam scheduled Oct 2026
+> CCNA: exam scheduled Oct 30, 2026
 
 ---
 
