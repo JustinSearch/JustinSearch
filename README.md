@@ -52,13 +52,11 @@
 
 ## 🎯 Currently
 
-- 🔭 Looking for NOC Technician and IT Support roles in the Seattle area
-- 📚 Finishing CCNA
-- 🧰 Working on: CCNA review
+- 🔭 Looking for Junior Network Engineer roles in the Seattle area
 
 <details>
 <summary><b>More about me</b></summary>
 
-I've been taking computers apart and fixing them since I was 15. I've repaired hardware, removed malware, and solved network problems for friends, family, and paying clients, and I volunteer on IT support at a local church. I'm open to rotating shifts, nights, and weekends.
+I've been taking computers apart and fixing them since I was 15. I currently work as a NOC Tech supporting multiple 24/7 datacenter locations I've repaired hardware, removed malware, and solved network problems for friends, family, and paying clients, and I volunteer on IT support at a local church. I'm open to rotating shifts, nights, and weekends.
 
 </details>
